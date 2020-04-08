@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Set;
 public class Torneo {
     public class Liga {
+        // POR FAVOR REVISAR
         // Equipos que juegan la liga
         private ArrayList<Equipo> equipos;
         // Jornadas que componen la liga

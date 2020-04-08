@@ -1,6 +1,7 @@
 package edu.torneo.simuladortorneo.model;
 
 public class Equipo {
+    // DAR UNA REVISION SANTIAGO CAMILO
     // Nombre del equipo
     private String nombre;
     // Codigo del equipo

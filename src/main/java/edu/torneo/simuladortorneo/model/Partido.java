@@ -2,6 +2,7 @@ package edu.torneo.simuladortorneo.model;
 import java.util.Random;
 
 public class Partido {
+    //POR FAVOR REVISAR
     private Equipo equipoLocal;
     private Equipo equipoVisitante;
     // Guarda los goles marcados por el equipo local

@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashMap;
 
 public class Fecha {
-
+    // DAR UNA REVISION SANTIAGO CAMILO
     // Una jornada se compone de una serie de partidos que enfrentan a los equipos entre si
     private ArrayList<Partido> partidos;
 
